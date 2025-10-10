@@ -15,4 +15,3 @@ Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ult
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
 
-test commit 
